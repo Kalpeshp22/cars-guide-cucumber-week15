@@ -1,0 +1,3 @@
+com\carsguide\steps\SearchFunctionalityTestSteps.class
+com\carsguide\Hooks.class
+com\carsguide\runner\TestRunner.class
